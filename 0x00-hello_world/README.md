@@ -4,3 +4,4 @@
 2-assembler - Generates the assembly code of the file $CFILE
 3-name - creates executable named cisfun from $CFILE
 4-puts.c - C program that prints using puts and exits with 0
+5-printf.c - prints some text
