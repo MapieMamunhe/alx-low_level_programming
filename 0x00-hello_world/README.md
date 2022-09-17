@@ -3,3 +3,4 @@
 1-compiler - Compile a C file without linking (name of the file will be in $CFILE)
 2-assembler - Generates the assembly code of the file $CFILE
 3-name - creates executable named cisfun from $CFILE
+4-puts.c - C program that prints using puts and exits with 0
