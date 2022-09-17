@@ -5,3 +5,4 @@
 3-name - creates executable named cisfun from $CFILE
 4-puts.c - C program that prints using puts and exits with 0
 5-printf.c - prints some text
+6-size.c - show the output size of data types
